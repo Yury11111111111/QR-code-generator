@@ -13,13 +13,15 @@ h1 {
   display: flex;
 }
 
-input{
+.input{
   height: 30px;
   width: 300px;
   margin: 0 auto;
+  margin-top: 30px;
   display: flex;
 }
-button {
+
+#button {
   margin: 0 auto;
   display: flex;
 }
